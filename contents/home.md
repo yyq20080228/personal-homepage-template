@@ -3,18 +3,12 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+yyq8886@qq.com
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+huazhong university of sciecen and technology 
+  
+• GPA: 80/100 (top 90%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+tennis, fitness, swimming, writing.
