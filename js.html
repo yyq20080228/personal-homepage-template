@@ -1,0 +1,27 @@
+<html lang="zh - CN">
+
+<head>
+  <meta charset="UTF - 8">
+  <meta name="viewport" content="width=device-width, initial - scale=1.0">
+  <title>JavaScript 功能演示</title>
+</head>
+
+<body>
+  <script>
+    // 弹出对话框
+    alert("欢迎来到JavaScript功能演示页面！");
+
+    // 改变屏幕背景色
+    document.body.style.backgroundColor = "lightblue";
+
+    // 获取当前时间
+    var now = new Date();
+    var hours = now.getHours();
+    var minutes = now.getMinutes();
+    var seconds = now.getSeconds();
+    var timeString = "当前时间是：" + hours + ":" + (minutes < 10? '0' : '') + minutes + ":" + (seconds < 10? '0' : '') + seconds;
+    document.write(timeString);
+  </script>
+</body>
+
+</html>

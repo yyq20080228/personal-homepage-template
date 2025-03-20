@@ -1,0 +1,38 @@
+<html lang="zh - CN">
+
+<head>
+  <meta charset="UTF - 8">
+  <title>申请表</title>
+  <style>
+    body {
+      background - color: #a9e298;
+    }
+  </style>
+</head>
+
+<body>
+  <h2>申请表</h2>
+  <form>
+    <label for="name">姓名:</label>
+    <input type="text" id="name" name="name"><br><br>
+    <label for="position">感兴趣的职位：</label><br>
+    <input type="radio" id="designer" name="position" value="Web设计人员">
+    <label for="designer">Web设计人员</label>
+    <input type="radio" id="manager" name="position" value="Web管理人员">
+    <label for="manager">Web管理人员</label>
+    <input type="radio" id="developer" name="position" value="Web开发人员">
+    <label for="developer">Web开发人员</label><br><br>
+    <label for="requirements">其他要求：</label><br>
+    <textarea id="requirements" name="requirements" rows="4" cols="50">包括薪水待遇、工作地点等。</textarea><br><br>
+    <input type="checkbox" id="confirm" name="confirm" checked>
+    <label for="confirm">发送确认消息</label><br><br>
+    <label for="experience">经验</label>
+    <select id="experience" name="experience">
+      <option value="无经验">无经验</option>
+    </select><br><br>
+    <input type="submit" value="确定">
+    <input type="reset" value="重置">
+  </form>
+</body>
+
+</html>
